@@ -1,4 +1,5 @@
 Customer Shopping Behavior Analysis
+
 This project provides a comprehensive analysis of customer shopping habits using an end-to-end data pipeline. It involves Data Cleaning with Python, Database Management & Querying with SQL Server, and Data Visualization with Power BI to uncover actionable business insights.
 
 🛠️ Tech Stack
